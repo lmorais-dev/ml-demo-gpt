@@ -15,6 +15,8 @@ The example image below was run inside `runpod.io` on a community `RTX 6000 Ada`
 
 ![example image](/assets/example.png)
 
+A [text example](/example.txt) is also provided. It has a 3k token limit and had it training iterations pumped up to 10k. It is more concise but still outputs random non-sense (that at least looks not so bad).
+
 ### Recommendations
 
 PyTorch and NumPy are required to run this. It works on either GPU or CPU.
